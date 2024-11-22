@@ -75,7 +75,7 @@ fun Menu(modifier: Modifier = Modifier) {
         modifier = Modifier
             .fillMaxSize()
             .then(
-                Modifier.background(Color(0xFFE1F5FE))
+                Modifier.background(Color(0xFF000000))
             )
             .padding(16.dp)
     )
